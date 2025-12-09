@@ -1,0 +1,53 @@
+body{
+  background-color: lightskyblue;
+  font-family: arial;
+    color: blue;
+  background: linear-gradient(to right,,);
+}
+td{
+  border: 1px solid black;
+}
+  h1,{
+    color:darkblue;
+  }
+h2,h3{
+  color:black;
+  font-size: 1.5rem
+}
+  p{
+    font-size: 1rem;
+    
+  }
+a:link{
+  color:blue;
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
+  text-decoration: none;
+}
+img {
+  width: 20%
+}
+
+tr,th,td{
+  font-family: Arial;
+text-align: center;
+border:1px solid black;
+
+}
+tr,th,td{
+padding: 5px;
+text-align:center ;}
+h1{
+  text-align: center;
+}
+tbody>tr:nth-child(2n){
+  background-color: darkturquoise;
+}
+td-rowspan{
+  color:white;
+}
+.sem-cor{
+  background-color: lightskyblue;
+}
